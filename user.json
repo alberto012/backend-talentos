@@ -1,0 +1,24 @@
+{
+    "usuarios": [
+        {
+            "user": "chacho",
+            "password": "12345"
+        },
+        {
+            "user": "chacha",
+            "password": "12Abx345"
+        },
+        {
+            "user": "checho",
+            "password": "12abc45"
+        },
+        {
+            "user": "chicho",
+            "password": "12234234345"
+        },
+        {
+            "user": "chucho",
+            "password": "12345123123"
+        }
+    ]
+}
